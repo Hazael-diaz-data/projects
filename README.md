@@ -2,7 +2,7 @@
 
 ***
 
-Coffee sales Report [Excel](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.xlsx) [Dashboard](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.pdf)
+Coffee sales Report [Excel](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.xlsx) | [Dashboard](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.pdf)
 - Data cleaning in **Excel**: I used the ***remove duplicates feature*** to clean the data set.
 - Data preparation in **Excel**: I used the ***xlookup*** function, *match* and ***index*** function to populate the table of orders, futhermore I used the ***if*** function to rename all the records, finally I changed the date format to dd-mmm-yyyy to enhance the visualization.
 - Data Visualization in **Excel**: I made 4 ***pivot tables*** and ***pivot charts***.
