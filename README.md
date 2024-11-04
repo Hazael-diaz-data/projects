@@ -2,7 +2,7 @@
 
 ***
 
-Exploratory and diagnostic data Analysis of Walmart Sales | [Diagnostic Data Analysis](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/walmart_eda.sql) | [EDA](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/WalmartDiagnosticAnalysis.ipynb) 
+Exploratory and diagnostic data Analysis of Walmart Sales | [Diagnostic Data Analysis](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/WalmartDiagnosticAnalysis.ipynb) | [EDA](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/walmart_eda.sql) 
 - I Uploaded the dataset a cvs file to **MySQL** and then I connected the new database in MySQL to **Power BI**.
 - Data preparation in **MySQL**: I retrieved from the date column the month, day name and time of the day with ```CASE``` and ```WHEN```.
 - Diagnostic Analisys in **Power BI**: I disocvered the key three reason why Walmart income shrank in February and March through several data visualizations.
@@ -18,7 +18,7 @@ Coffee sales Report [Excel](https://github.com/Hazael-diaz-data/projects/blob/ma
 - Data cleaning in **Power Bi**: I removed duplicates records and records with erroneous data, and I converted all the information from rupies to dollars.
 - Data Visualization in **Power Bi**: I made an inetractive dashboard which showcases the Revenue and amountof sales of the company by market, futhermore I made visualization that shows the top 5 products and customers and finally a time series of the revenue that enables the stakeholder to see the trend of his revenue.  
 
-**Fitbit data Analysis**
+**Fitbit data Analysis** [SQL CODE]()
 -  Data merging in **Postgresql** using ```INSERT INTO```
 - Data cleaning in **Postgresql**: I changed string data type into date data type using ```TO_DATE``` function, I ensured that the data set didn't have any duplicates nor missing/null values using ```GROUP BY``` & ```HAVING```, and ```WHERE```, finally I removed useless columns through ```ALTER``` and ```DROP```
 - Analysis in **Python**: I found how often fitbit users wore their fitbit and I designed some statistic to understand how they use their smart devices.
