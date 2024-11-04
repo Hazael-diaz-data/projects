@@ -2,6 +2,12 @@
 
 ***
 
+Exploratory and diagnostic data Analysis of Walmart Sales
+- I Uploaded the dataset a cvs file to **MySQL** and then I connected the new database in MySQL to **Power BI**.
+- Data preparation in **MySQL**: I retrieved from the date column the month, day name and time of the day with ```CASE``` and ```WHEN```.
+- EDA in **MySQL**: I found what city sold the most product, the most used payment method and more, using ```WHERE```, ```GROUP BY```, ```ORDER BY``` 
+- 
+
 Coffee sales Report [Excel](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.xlsx) | [Dashboard](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.pdf)
 - Data cleaning in **Excel**: I used the ***remove duplicates feature*** to clean the data set.
 - Data preparation in **Excel**: I used the ***xlookup*** function, *match* and ***index*** function to populate the table of orders, futhermore I used the ***if*** function to rename all the records, finally I changed the date format to dd-mmm-yyyy to enhance the visualization.
