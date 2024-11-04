@@ -2,11 +2,11 @@
 
 ***
 
-Exploratory and diagnostic data Analysis of Walmart Sales
+Exploratory and diagnostic data Analysis of Walmart Sales | [Diagnostic Data Analysis](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/walmart_eda.sql) | [EDA](https://github.com/Hazael-diaz-data/projects/blob/main/WalmartSales/WalmartDiagnosticAnalysis.ipynb) 
 - I Uploaded the dataset a cvs file to **MySQL** and then I connected the new database in MySQL to **Power BI**.
 - Data preparation in **MySQL**: I retrieved from the date column the month, day name and time of the day with ```CASE``` and ```WHEN```.
+- Diagnostic Analisys in **Power BI**: I disocvered the key three reason why Walmart income shrank in February and March through several data visualizations.
 - EDA in **MySQL**: I found what city sold the most product, the most used payment method and more, using ```WHERE```, ```GROUP BY```, ```ORDER BY``` 
-- 
 
 Coffee sales Report [Excel](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.xlsx) | [Dashboard](https://github.com/Hazael-diaz-data/projects/blob/main/Coffe_sales_report.pdf)
 - Data cleaning in **Excel**: I used the ***remove duplicates feature*** to clean the data set.
